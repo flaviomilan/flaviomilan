@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning rust-lang
 - 👯 I’m looking to collaborate on open source projects
-- 💬 Ask me about Python and Golang
+- 💬 Ask me about Serverless, Cloud, Python and Golang
 
 ![Keybase PGP](https://img.shields.io/keybase/pgp/flaviomilan) ![GitHub followers](https://img.shields.io/github/followers/flaviomilan?style=social)
 
