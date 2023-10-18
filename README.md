@@ -1,2 +1,1 @@
-
-![giphy (1)](https://github.com/flaviomilan/flaviomilan/assets/3169411/ddc36133-5f04-4002-8620-67a0ba2aa179)
+![sloth](https://github.com/flaviomilan/flaviomilan/assets/3169411/3a2f6c04-55b8-4a6d-9483-81288b1458b5)
