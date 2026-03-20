@@ -1,22 +1,19 @@
 <div align="center">
 
 ```
-   ╭╮╭╮                ╭─────────────────────────────────────────╮
-  ( ◠ ◠ )  zzZ         │                                         │
- ╭─┤    ├─╮            │  $ whoami                               │
- │ ╰┬──┬╯ │            │  flavio milan — AI whisperer 🇧🇷          │
- ╰──╯  ╰──╯            │                                         │
+   ╭╮╭╮                 ╭─────────────────────────────────────────╮
+  ( ◠ ◠ )  zzZ          │                                         │
+ ╭─┤    ├─╮             │  $ whoami                               │
+ │ ╰┬──┬╯ │             │  flavio milan — AI whisperer 🇧🇷         │
+ ╰──╯  ╰──╯             │                                         │
 ╭────────────╮          │  $ cat /etc/motto                       │
 │ ╠══════════╣          │  "teaching LLMs to hack                 │
-│ ╠══════════╣          │   so I don't have to" 🦥                 │
+│ ╠══════════╣          │   so I don't have to" 🦥                │
 ╰────────────╯          │                                         │
                         ╰─────────────────────────────────────────╯
 ```
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&height=30&lines=AI+agents+go+brrr+%F0%9F%94%A5+%C2%B7+offensive+sec+%C2%B7+OSINT;ML+recs+by+day+%C2%B7+pentest+agents+by+night+%F0%9F%8C%99" alt="Typing SVG" />
-
-<a href="https://flaviomilan.dev"><img src="https://img.shields.io/badge/flaviomilan.dev-0d1117?style=for-the-badge&logo=hugo&logoColor=58a6ff" alt="Blog"/></a>
-<a href="https://twitter.com/flaviomilan"><img src="https://img.shields.io/badge/@flaviomilan-0d1117?style=for-the-badge&logo=x&logoColor=58a6ff" alt="X"/></a>
 
 </div>
 
@@ -49,6 +46,8 @@ focus:
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
