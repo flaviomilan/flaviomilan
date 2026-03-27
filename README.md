@@ -4,8 +4,6 @@
 
 </div>
 
-### `> cat about.txt`
-
 ```yaml
 name: Flávio Milan
 role: Software Engineer @ Grupo Boticário
@@ -14,10 +12,6 @@ focus:
   - autonomous AI agents (LangGraph/LangChain)
   - offensive security & OSINT reconnaissance
 ```
-
----
-
-### `> ls toolkit/`
 
 <div align="center">
 
@@ -29,9 +23,7 @@ focus:
 
 </div>
 
----
-
-### `> uptime`
+<br/>
 
 <div align="center">
 
@@ -39,10 +31,10 @@ focus:
 
 </div>
 
----
+<br/>
 
 <div align="center">
-  
+
 <img src="https://komarev.com/ghpvc/?username=flaviomilan&style=flat-square&color=1a1b27&label=visitors" />
 
 ```
