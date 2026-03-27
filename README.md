@@ -1,42 +1,18 @@
 <div align="center">
 
-```
-   ╭╮╭╮                 ╭─────────────────────────────────────────╮
-  ( ◠ ◠ )  zzZ          │                                         │
- ╭─┤    ├─╮             │  $ whoami                               │
- │ ╰┬──┬╯ │             │  flavio milan — AI whisperer 🇧🇷         │
- ╰──╯  ╰──╯             │                                         │
-╭────────────╮          │  $ cat /etc/motto                       │
-│ ╠══════════╣          │  "teaching LLMs to hack                 │
-│ ╠══════════╣          │   so I don't have to" 🦥                │
-╰────────────╯          │                                         │
-                        ╰─────────────────────────────────────────╯
-```
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&height=30&lines=AI+agents+go+brrr+%F0%9F%94%A5+%C2%B7+offensive+sec+%C2%B7+OSINT;ML+recs+by+day+%C2%B7+pentest+agents+by+night+%F0%9F%8C%99" alt="Typing SVG" />
 
 </div>
-
-<br/>
 
 ### `> cat about.txt`
 
 ```yaml
 name: Flávio Milan
 role: Software Engineer @ Grupo Boticário
-side_quests:
-  - AI agents that pentest for me
-  - ML recommendation systems for marketplace
-location: Brazil 🇧🇷
-remote: true
-spirit_animal: 🦥  # slow is smooth, smooth is fast
-
 focus:
   - recommendation engines & marketplace ML
   - autonomous AI agents (LangGraph/LangChain)
   - offensive security & OSINT reconnaissance
-  - low-level network tools (Go + Rust)
-  - if it hacks, thinks, or recommends — I'm in
 ```
 
 ---
@@ -50,38 +26,6 @@ focus:
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square)
-![Shodan](https://img.shields.io/badge/Shodan-CC0000?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
-![Arch](https://img.shields.io/badge/Arch-1793D1?style=flat-square&logo=archlinux&logoColor=white)
-
-</div>
-
----
-
-### `> cat projects.log | grep "proud of"`
-
-<div align="center">
-
-<a href="https://github.com/flaviomilan/fackel">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=flaviomilan&repo=fackel&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=8b949e" />
-</a>
-<a href="https://github.com/flaviomilan/sectools">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=flaviomilan&repo=sectools&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=8b949e" />
-</a>
-<a href="https://github.com/flaviomilan/dotfiles">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=flaviomilan&repo=dotfiles&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=8b949e" />
-</a>
-<a href="https://github.com/flaviomilan/milan.nvim">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=flaviomilan&repo=milan.nvim&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=8b949e" />
-</a>
 
 </div>
 
