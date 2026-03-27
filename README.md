@@ -1,16 +1,12 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&height=30&lines=AI+agents+go+brrr+%F0%9F%94%A5+%C2%B7+offensive+sec+%C2%B7+OSINT;ML+recs+by+day+%C2%B7+pentest+agents+by+night+%F0%9F%8C%99" alt="Typing SVG" />
-
-</div>
-
 ```yaml
 name: Flávio Milan
 role: Software Engineer @ Grupo Boticário
+location: Brazil 🇧🇷
 focus:
   - recommendation engines & marketplace ML
   - autonomous AI agents (LangGraph/LangChain)
   - offensive security & OSINT reconnaissance
+  - low-level network tools (Go + Rust)
 ```
 
 <div align="center">
