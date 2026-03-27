@@ -35,8 +35,7 @@ focus:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=flaviomilan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff" height="160" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=flaviomilan&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" height="160" />
+<img src="https://github-readme-insight-terminal-asci.vercel.app/svg?user=flaviomilan&theme=mac" alt="GitHub contribution graph" width="100%" />
 
 </div>
 
